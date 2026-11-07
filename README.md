@@ -3,7 +3,7 @@
 </p><!-- QUICK INTRO ABOUT ME --><h2 align="center">
   <span style="font-size: 3em; font-weight: bold;">ANDREW FRIDAY 🧠🛠️🚀</span>
 </h2>
-<h3 align="center">HI 👋 Software Engineer | GIS Developer | GEOAI Specialist</h3>
+<h3 align="center">HI 👋 Software Engineer | Python Quantitative Developer | GEOAI Specialist</h3>
 <h4 align="center" style="color: #ffd700; font-weight: bold; letter-spacing: 2px;">"MOVE LET'S ALL MOVE"</h4><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><!-- CONNECT WITH ME --><p align="left" style="display: flex; align-items: center;">
   <strong>Lets Connect on:</strong>
   <a href="https://x.com/afriday01"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=X&logoColor=white" align="center" alt="Twitter"/></a>
