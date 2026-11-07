@@ -22,8 +22,8 @@
         <img src="profile/trophy.svg" alt="auandrewfy-ux GitHub trophies" />
     </a> 
 </p><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">💡 About Me
-Hi! I’m Andrew Friday, a passionate Software Engineer and GIS Developer with deep expertise in:
-	•	🌍 Geospatial Data Science - Spatial analysis and mapping
+Hi! I’m Andrew Friday, very passionate Software Engineering, Web-app Development and GIS Developer with deep expertise in:
+	•	🌍 Fastapi, flask, jinja2 template and postgres.
 	•	🤖 Machine Learning - Especially matching algorithms and predictive models
 	•	🗺️ GEOAI - Artificial Intelligence for geographic applications
 	•	📊 Spatial Data Science - Processing and analyzing geographic data
